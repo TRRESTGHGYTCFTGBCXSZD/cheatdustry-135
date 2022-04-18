@@ -1,0 +1,12 @@
+{
+	"type": "Duct",
+	"placeableLiquid": true,
+	"health": 0,
+	"speed": 10,
+	"displayedSpeed": 120,
+    "requirements": [
+		"trrestghgytcftgbcxszdcheatdustry-puzzloop-gray-ball/2"
+	],
+	"category": "distribution",
+	"research": "puzzloop-normal-track"
+}

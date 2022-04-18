@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 8.4666665 8.4666669"
+   version="1.1"
+   id="svg2112"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="puzzloop-normal-track-1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2114"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:snap-page="true"
+     inkscape:snap-center="true"
+     inkscape:snap-nodes="false"
+     inkscape:zoom="12.22963"
+     inkscape:cx="23.672017"
+     inkscape:cy="2.0033313"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2109" />
+  <g
+     inkscape:label="레이어 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path2195"
+       style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke-width:2.50001;stroke-miterlimit:10;-inkscape-stroke:none;stop-color:#000000"
+       d="M 32 -26 A 26 26 0 0 0 6 0 A 26 26 0 0 0 32 26 A 26 26 0 0 0 58 0 A 26 26 0 0 0 32 -26 z M 32 -6 A 5.9999999 5.9999999 0 0 1 38 0 A 5.9999999 5.9999999 0 0 1 32 6 A 5.9999999 5.9999999 0 0 1 26 0 A 5.9999999 5.9999999 0 0 1 32 -6 z "
+       transform="scale(0.26458333)" />
+    <path
+       id="circle2295"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2.50001;stroke-miterlimit:10;-inkscape-stroke:none;stop-color:#000000"
+       d="M 32 -24 A 24 24 0 0 0 8 0 A 24 24 0 0 0 32 24 A 24 24 0 0 0 56 0 A 24 24 0 0 0 32 -24 z M 32 -22 A 21.999999 21.999999 0 0 1 54 0 A 21.999999 21.999999 0 0 1 32 22 A 21.999999 21.999999 0 0 1 10 0 A 21.999999 21.999999 0 0 1 32 -22 z "
+       transform="scale(0.26458333)" />
+    <path
+       id="circle2337"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke-width:2.50001;stroke-miterlimit:10;-inkscape-stroke:none;stop-color:#000000"
+       d="M 32 -10 A 9.9999997 9.9999997 0 0 0 22 0 A 9.9999997 9.9999997 0 0 0 32 10 A 9.9999997 9.9999997 0 0 0 42 0 A 9.9999997 9.9999997 0 0 0 32 -10 z M 32 -8 A 8.0000004 8.0000004 0 0 1 40 0 A 8.0000004 8.0000004 0 0 1 32 8 A 8.0000004 8.0000004 0 0 1 24 0 A 8.0000004 8.0000004 0 0 1 32 -8 z "
+       transform="scale(0.26458333)" />
+    <path
+       id="circle2347"
+       style="fill:#440066;fill-opacity:1;fill-rule:evenodd;stroke-width:2.50001;stroke-miterlimit:10;-inkscape-stroke:none;stop-color:#000000"
+       d="M 32 -20 A 19.999999 -19.999999 0 0 0 12 0 A 19.999999 -19.999999 0 0 0 32 20 A 19.999999 -19.999999 0 0 0 52 0 A 19.999999 -19.999999 0 0 0 32 -20 z M 32 -12 A 12 -12 0 0 1 44 0 A 12 -12 0 0 1 32 12 A 12 -12 0 0 1 20 0 A 12 -12 0 0 1 32 -12 z "
+       transform="scale(0.26458333)" />
+  </g>
+</svg>

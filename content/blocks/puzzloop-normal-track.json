@@ -1,0 +1,12 @@
+{
+	"type": "Duct",
+	"placeableLiquid": true,
+	"health": 0,
+	"speed": 15,
+	"displayedSpeed": 120,
+    "requirements": [
+		"trrestghgytcftgbcxszdcheatdustry-puzzloop-gray-ball/1"
+	],
+	"category": "distribution",
+	"research": "trrestghgytcftgbcxszdcheatdustry-ultimate-belt"
+}
